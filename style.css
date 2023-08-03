@@ -1,0 +1,110 @@
+.menu-nav-bar{
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+    font-style: italic;
+    background-color:#312C51;
+
+
+}
+
+#img1{
+    height: 100px;
+    width: 400px;
+}
+#ID{
+    border-radius: 100px;
+    border-color:black;
+}
+#password{
+    border-radius: 100px;
+    border-color: black;
+}
+#login{
+    border-radius: 100px;
+    border-color:black;
+}
+#login:hover{
+    background-color: green;
+}
+.list1{
+    height: 200px;
+    width: 500px;
+}
+ul li{
+    list-style: none;
+}
+.products img{
+    height: 200px;
+    width: 300px;
+}
+.mylist2{
+ 
+  padding-left: 300;
+}
+#total{
+    border-radius: 100px;
+
+}
+#remove{
+    border-radius: 100px;
+    height: 20px;
+}
+#remove:hover{
+    background-color: red;
+}
+.add:active{
+background-color: green;
+}
+.minus:active{
+    background-color: yellow;
+}
+.add:hover{
+    background-color: green;
+    }
+    .minus:hover{
+        background-color: yellow;
+    }
+
+
+    .products{
+margin-top: 120;
+
+    }
+    .lists{
+        display: flex;
+        justify-content: space-around;
+        height: 300;
+        width: 800;
+    }
+    .main-footer{
+        margin-top: 120px;
+        display: flex;
+        justify-content: space-around;
+        background-color: black;
+        position: fixed;
+        right: 40px; left: 40px;
+    }
+    #totalfin{
+        border-radius: 100px;
+        text-align: center;
+        font-size: x-large;
+    }
+    .btnfin{
+        border-radius: 100px;
+        width: 200;
+        text-align: center;
+        font-family: arial;
+        font-size: x-large;
+    }
+    .btnfin:hover{
+        background-color: green;
+    }
+    .tt{
+        color: blanchedalmond;
+    }
+    .btn1{
+        background-color: white;
+        border-radius: 20px;
+        border-width: 0.2;
+    }
